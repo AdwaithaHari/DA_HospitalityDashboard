@@ -1,2 +1,2 @@
 # DA_HospitalityDashboard
-Power Bi Dashboard
+Power Bi and Tableau Dashboards
